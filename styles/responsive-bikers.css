@@ -1,0 +1,16 @@
+@media screen and (max-width:576px) {
+    /* nav style start here */
+    .menubar-logo{
+        display: block;
+    }
+    .nav-item{
+        display: none;
+    }
+    /* nav style end here */
+    /* hero style start here */
+    .hero{
+        flex-direction: column;
+        justify-content: center;
+    }
+    /* hero style end here */
+}
