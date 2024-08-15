@@ -19,4 +19,13 @@
         gap:20px;
     }
     /* fetured style end here */
+    /* latest style start here */
+    .latest-cards{
+        flex-direction: column;
+    }
+    .bike-card{
+        width: 90%;
+        margin: 0 auto;
+    }
+    /* latest style end here */
 }

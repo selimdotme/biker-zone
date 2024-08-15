@@ -108,3 +108,40 @@ nav{
     justify-content: space-evenly;
 }
 /* fetured style end here */
+/* latest style start here */
+.latest-title{
+    font-size: 3rem;
+    font-weight: 700;
+    text-align: center;
+}
+.latest{
+    margin: 40px 0;
+}
+.card-title{
+    font-size: 1.7rem;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+.card-des{
+    font-size: 15px;
+    margin-bottom: 10px;
+}
+.btn-secondary{
+    background-color: #fff;
+    color: #E76F51;
+    border: 1px solid #E76F51;
+}
+.latest-cards{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+    padding: 10px;
+}
+.bike-card{
+    width: 540px;
+}
+.bike-card img{
+    width: 100%;
+}
+/* latest style end here */
