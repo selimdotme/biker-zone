@@ -82,7 +82,7 @@ nav{
     width: 100%;
 }
 /* hero style end here */
-/* fetured style start here */
+/* feuded style start here */
 .fetured-contain{
     margin: 50px 0;
 }
@@ -107,7 +107,7 @@ nav{
     display: flex;
     justify-content: space-evenly;
 }
-/* fetured style end here */
+/* feared style end here */
 /* latest style start here */
 .latest-title{
     font-size: 3rem;
@@ -188,6 +188,9 @@ nav{
     margin-left: 3px;
     margin-bottom: 10px;
 }
+.miles{
+    color:#23A6F0
+}
 .miles,
 .profes{
     font-size: 14px;
@@ -196,3 +199,49 @@ nav{
     margin-bottom: 10px;
 }
 /* client style end here */
+/* footer style start here */
+footer{
+    background-color: black;
+}
+.footer-contain{
+    padding: 60px 0;
+    display: flex;
+    justify-content: space-between;
+}
+.footer-contain p{
+    color:#fff
+}
+.left-contain{
+    max-width: 600px;
+
+}
+.right-contain{
+    width: 300px;
+}
+.img-title-footer{
+    font-size: 16px;
+    font-weight: 600;
+    color: #fff;
+    margin: 20px 0;
+}
+.img-area img{
+    width:100px;
+    margin-bottom: 15px;
+    display: block;
+}
+.link{
+    display: flex;
+    gap: 50px;
+}
+.link>p,
+.about-des{
+    font-size: 16px;
+    color: #fff;
+}
+.about{
+    display: flex;
+    gap: 30px;
+    margin: 30px 0;
+}
+
+/* footer style end here */

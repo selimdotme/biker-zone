@@ -13,12 +13,12 @@
         justify-content: center;
     }
     /* hero style end here */
-    /* fetured style start here */
+    /* fetted style start here */
     .fetured-collection{
         flex-direction: column;
         gap:20px;
     }
-    /* fetured style end here */
+    /* feared style end here */
     /* latest style start here */
     .latest-cards{
         flex-direction: column;
@@ -37,4 +37,9 @@
         margin: 0 auto;
     }
     /* client style end here */
+    /* footer style start here */
+    .footer-contain{
+        flex-direction: column;
+    }
+    /* footer style end here */
 }
