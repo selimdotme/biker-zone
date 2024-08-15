@@ -13,4 +13,10 @@
         justify-content: center;
     }
     /* hero style end here */
+    /* fetured style start here */
+    .fetured-collection{
+        flex-direction: column;
+        gap:20px;
+    }
+    /* fetured style end here */
 }

@@ -82,3 +82,29 @@ nav{
     width: 100%;
 }
 /* hero style end here */
+/* fetured style start here */
+.fetured-contain{
+    margin: 50px 0;
+}
+.fetured-title{
+    font-size: 3rem;
+    font-weight: 700;
+    text-align: center;
+}
+.fetured-des{
+    font-size: 14px;
+    font-weight: 600;
+    color: red;
+    text-align: center;
+}
+.bike-img{
+    max-width: 550px;
+}
+.bike-img img{
+    width: 100%;
+}
+.fetured-collection{
+    display: flex;
+    justify-content: space-evenly;
+}
+/* fetured style end here */
