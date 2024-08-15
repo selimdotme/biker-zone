@@ -41,5 +41,11 @@
     .footer-contain{
         flex-direction: column;
     }
+    .about-des{
+        font-size: 12px;
+    }
+    .p-footer{
+        text-align: center;
+    }
     /* footer style end here */
 }

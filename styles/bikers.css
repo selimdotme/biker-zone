@@ -149,7 +149,7 @@ nav{
 /* latest style end here */
 /* client style start here */
 .client{
-    margin-top: 60px;
+    margin: 60px 0;
 }
 .client-title{
     font-size: 3rem;
@@ -208,9 +208,6 @@ footer{
     display: flex;
     justify-content: space-between;
 }
-.footer-contain p{
-    color:#fff
-}
 .left-contain{
     max-width: 600px;
 
@@ -243,5 +240,8 @@ footer{
     gap: 30px;
     margin: 30px 0;
 }
-
+.p-footer{
+    color:#fff;
+    padding-bottom: 40px;
+}
 /* footer style end here */
