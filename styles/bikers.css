@@ -136,12 +136,63 @@ nav{
     display: flex;
     justify-content: space-between;
     gap: 30px;
-    padding: 10px;
+    
 }
 .bike-card{
     width: 540px;
+    border: 1px solid rgba(128, 128, 128, 0.288);
+    padding: 10px;
 }
 .bike-card img{
     width: 100%;
 }
 /* latest style end here */
+/* client style start here */
+.client{
+    margin-top: 60px;
+}
+.client-title{
+    font-size: 3rem;
+    font-weight: 700;
+    text-align: center;
+}
+.client-color{
+    color:#E76F51
+}
+.clients-cards{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+    gap: 40px;
+}
+.client-card{
+    max-width: 500px;
+    border: 1px solid rgba(128, 128, 128, 0.479);
+    padding: 15px;
+}
+.client-card >.img-c{
+    width: 200px;
+    margin: 0 auto;
+}
+.img-c img{
+    width: 100%;
+}
+.client-des{
+    font-size: 15px;
+    text-align: center;
+    font-weight: 500;
+    margin: 10px 0;
+}
+.start-logo{
+    text-align: center;
+    margin-left: 3px;
+    margin-bottom: 10px;
+}
+.miles,
+.profes{
+    font-size: 14px;
+    text-align: center;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+/* client style end here */

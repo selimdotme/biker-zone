@@ -28,4 +28,13 @@
         margin: 0 auto;
     }
     /* latest style end here */
+    /* client style start here */
+    .clients-cards{
+        flex-direction: column;
+    }
+    .client-card{
+        width: 80%;
+        margin: 0 auto;
+    }
+    /* client style end here */
 }
